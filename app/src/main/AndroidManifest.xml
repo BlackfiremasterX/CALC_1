@@ -5,7 +5,7 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/iconcalc"
-        android:label="Deep Dweller Calc"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/iconcalcr"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
